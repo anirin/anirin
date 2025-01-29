@@ -4,6 +4,10 @@
 
 2. My favorites are C!
 
+## graph
+
+https://github-readme-stats.vercel.app/api?username=anirin
+
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,go," /> <br /><br />
