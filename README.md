@@ -1,10 +1,4 @@
-# About Me
-
-1. I'm a web backend developer from Japan
-
-2. My favorites are C!
-
-## graph
+## Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=anirin" /> <br /><br />
 
