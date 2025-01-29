@@ -6,7 +6,7 @@
 
 ## graph
 
-https://github-readme-stats.vercel.app/api?username=anirin
+<img src="https://github-readme-stats.vercel.app/api?username=anirin" /> <br /><br />
 
 ## Programming Languages
 
