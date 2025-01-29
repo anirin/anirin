@@ -1,6 +1,10 @@
 ## Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=anirin" /> <br /><br />
+＜a href="https://github.com/anuraghazra/github-readme-stats">
+  ＜img align="left" src="https://github-readme-stats.vercel.app/api?username=anirin&count_private=true&show_icons=true&theme=react" />
+
+＜a href="https://github.com/anuraghazra/github-readme-stats">
+  ＜img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirin&count_private=true&theme=react" />
 
 ## Programming Languages
 
