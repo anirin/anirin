@@ -4,11 +4,9 @@
 
 2. My favorites are C!
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,c++,go," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cpp,go," /> <br /><br />
 
 ## DB and Dev Tools etc
 
